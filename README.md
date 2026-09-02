@@ -42,7 +42,7 @@ I'm a passionate **Cybersecurity student** with a strong focus on identifying an
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Coding-with-Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Coding-with-Mayank&theme=dark&hide_border=false)
 
