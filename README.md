@@ -40,15 +40,22 @@ I'm a passionate **Cybersecurity student** with a strong focus on identifying an
 
 ## 📊 GitHub Statistics
 
+### Overview
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Coding-with-Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Coding-with-Mayank&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Coding-with-Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Total Contributions** — 205 | **Total Commits** — 133 | **Pull Requests** — 5 | **Current Streak** — 3 days
 
 </div>
+
+### Most Used Languages
+
+| Language | Usage | Status |
+|----------|-------|--------|
+| Python | 48.57% | ⚡ Primary |
+| HTML | 23.22% | 🎨 Web Dev |
+| Java | 21.76% | ☕ Backend |
+| Shell | 2.82% | 🐧 Linux |
+| CSS | 1.76% | 🎨 Styling |
 
 ---
 
@@ -66,5 +73,7 @@ I'm a passionate **Cybersecurity student** with a strong focus on identifying an
 <div align="center">
 
 **Let's build secure systems together! 🔒**
+
+*"Security is not a destination, it's a journey of continuous learning."*
 
 </div>
