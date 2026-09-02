@@ -1,10 +1,8 @@
 ## Hi there 👋
 
 
-**Coding-with-Mayank/Coding-with-Mayank** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# 💫 About Me:
-#  Hi, I'm Mayank👋<br><br>🎓 B.Tech CSE Student specializing in Cybersecurity  <br>🔐 Interested in Penetration Testing, Vulnerability Assessment, and SOC  <br>🐧 Skilled in Linux, Web Security, and Security Tools  <br>🚀 Building cybersecurity projects and continuously learning
+#   About Me:
+##  Hi, I'm Mayank👋<br><br>🎓 B.Tech CSE Student specializing in Cybersecurity  <br>🔐 Interested in Penetration Testing, Vulnerability Assessment, and SOC  <br>🐧 Skilled in Linux, Web Security, and Security Tools  <br>🚀 Building cybersecurity projects and continuously learning
 
 
 ## 🌐 Socials:
@@ -18,5 +16,5 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Coding-with-Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Coding-with-Mayank&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
