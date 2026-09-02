@@ -36,19 +36,6 @@ I'm a passionate **Cybersecurity student** with a strong focus on identifying an
 
 </div>
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.shion.dev/api?username=Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Coding-with-Mayank&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=Coding-with-Mayank&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-</div>
 
 ---
 
