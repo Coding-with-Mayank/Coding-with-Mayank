@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**B.Tech CSE Student | Cybersecurity Enthusiast | Ethical Hacker**
+**B.Tech CSE Student | Cybersecurity Enthusiast **
 
 </div>
 
